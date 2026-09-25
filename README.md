@@ -26,7 +26,7 @@ Build and Execution
 Clone the repository:
 
 Bash
-git clone [https://github.com/JoaoMarcosCordeiroDev/jmc-compiler-lex-parser.git](https://github.com/JoaoMarcosCordeiroDev/jmc-compiler-lex-parser.git)
+git clone [https://github.com/JoaoMarcosCordeiroDev/jmc-compiler-lex-parser.git](https://github.com/JoaoMarcosCordeiroDev/jmc-compiler-yyLex-Parser.git)
 cd jmc-compiler-lex-parser
 Compile the project using the Makefile:
 
