@@ -1,4 +1,4 @@
-## Custom Compiler Lexer - Parser - Abstract Syntax Tree
+## Compiler Lexer - Parser - Abstract Syntax Tree
 Development of a compiler for a custom language with its own alphabet, capable of processing source code, detecting syntax/semantic errors, and generating an Abstract Syntax Tree (AST). The repository includes a test suite with valid code files as well as intentional error test cases to verify fault detection and handling mechanisms.
 
 Tech Stack 
